@@ -19,13 +19,13 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
-https://tinyurl.com/ucv6jwc
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=A5D26E48F539CA16E419806BC5F8C2A02D4DE54D&profile=pass
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
-https://tinyurl.com/v6j2ndg
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV 2
 http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
