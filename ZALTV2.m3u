@@ -24,6 +24,9 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR 2
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=A5D26E48F539CA16E419806BC5F8C2A02D4DE54D&profile=pass
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
