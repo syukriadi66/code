@@ -512,12 +512,6 @@ http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessio
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS",USEE SPORTS 1 HD - Liga Shopee
-https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS",USEE SPORTS 2 HD
-https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
-
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
@@ -583,15 +577,6 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png" group-title="SPORTS",FLOW SPORTS1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/2REU59HsRBo3RkyM9euoiH-320-80.jpg" group-title="SPORTS",LaLiga TV
-http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/19.ts
-
-#EXTINF:-1 tvg-logo="https://radarcirebon.com/uploads/2013/10/barca.png" group-title="SPORTS",BARCA TV
-http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/23.ts
 
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
