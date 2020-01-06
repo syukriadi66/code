@@ -629,14 +629,14 @@ https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g1/sk2serbi
 #EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 3
 https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g8/rs3sk.m3u8
 
-#EXTINF:-1  group-title="SPORTS",SPORT TV 1
-http://62.203.143.51:9981/play/SPORTTV1
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 (Opt. 1)
+https://sportbar.biz/lba/123/g1/sport2port.m3u8
 
-#EXTINF:-1  group-title="SPORTS",SPORT TV 2
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 (Opt. 2)
 http://62.203.143.51:9981/play/SPORTV2
 
-#EXTINF:-1  group-title="SPORTS",SPORT TV 3
-http://62.203.143.51:9981/play/SPORT3
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
