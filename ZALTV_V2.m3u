@@ -647,6 +647,15 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",DD sportS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
+#EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="SPORTS",CT sport HD
+http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
+
+#EXTINF:-1 tvg-id="1baa6ca877e6e775128931191366fc9f" group-title="SPORTS",Nova Sport 1 HD
+http://185.150.27.124:9981/stream/channelid/678210075?profile=pass
+
+#EXTINF:-1 tvg-id="73b8c3673e6516e051ffc057c36f9271" group-title="SPORTS",Nova Sport 2 HD
+http://185.150.27.124:9981/stream/channelid/1740879987?profile=pass
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
