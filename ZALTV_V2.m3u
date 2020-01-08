@@ -31,7 +31,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=A5D26E48F539CA16E419806BC5F8C2A02D4DE54D&profile=pass
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
-https://stream-02.sg1.dailymotion.com:443/sec(URBhp0zYv0oL3J-5svQBhk9o-iZhKN_usm3UE6EHLgk)/dm/3/x7lnclt/s/live-0.m3u8
+https://stream-04.sg1.dailymotion.com:443/sec(URBhp0zYv0oL3J-5svQBhslWLrRFB-FkokGam8Z2t3w)/dm/3/x7lnclt/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV 2
 http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
