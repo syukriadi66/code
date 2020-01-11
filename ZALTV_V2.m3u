@@ -79,7 +79,7 @@ http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",JTV Surabaya
-http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -113,12 +113,6 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC SESSION
-https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC CONCERT
-https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
@@ -470,9 +464,14 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.torneodj.net/wp-content/uploads/2019/07/musictop_poster.png" group-title="MUSIC",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/theknockturnal.com/wp-content/uploads/2017/05/baeble-music-logo.jpg?fit=770%2C343&ssl=1" group-title="MUSIC",Baeble Music Concert
-https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876312~exp=9007200829617303~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_2/chunklist.m3u8*~hmac=2278e98d98241572d997241cfff28a697c84cd06a0427d711230cb9a4c249aed
+#EXTINF:-1 group-title="MUSIC",PRAMBORS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA" group-title="MUSIC",B MUSIC SESSION
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA" group-title="MUSIC",B MUSIC CONCERT
+https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="MUSIC",POP Musik
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
@@ -511,6 +510,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288
 
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="KNOWLEDGE",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJCbDAn.png" group-title="RELIGI",NU Channel
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
@@ -691,6 +693,16 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
 
 #EXTINF:-1 group-title="22/7 BOLA",Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
