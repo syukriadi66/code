@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="" group-title="USA",USA Network
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/2
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="" group-title="USA",Outdoor Channel
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/3
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="" group-title="USA",Nick
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/4
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="USA",Nick Jr
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/5
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="USA",HBO Signature
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/6
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="USA",HBO Family
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/7
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="USA",HBO 2
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="USA",History
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/9
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="USA",HGTV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/10
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Florida" tvg-logo="" group-title="USA",Fox Sports Florida
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/11
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="USA",CNN
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/12
+#EXTINF:-1 tvg-id="" tvg-name="Galavision" tvg-logo="" group-title="USA",Galavision
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/14
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Mundo y Cultura",Nat Geo Wild
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/15
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="USA",HBO
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/13
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL (CO)" tvg-logo="" group-title="Internacionales",CARACOL (CO)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/16
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Mundo y Cultura",El Gourmet
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/18
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="Mundo y Cultura",Discovery Theater
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/19
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Mundo y Cultura",Discovery Science
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/20
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Mundo y Cultura",Investigation Discovery
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/21
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Cine",Space
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/23
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="" group-title="Mundo y Cultura",Discovery Home and Health
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/22
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family" tvg-logo="" group-title="Cine",Fox Family
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/24
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action" tvg-logo="" group-title="Cine",Fox Premium Action
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/26
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="" group-title="Cine",De Pelicula Plus
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/27
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="Cine",HBO Plus
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/28
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="Infantiles",Nicktoons
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/29
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="" group-title="Infantiles",Nick 2
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/30
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="Infantiles",Nat Geo Kids
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/31
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="Cine",Cinecanal
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/32
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Infantiles",Disney JR
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/33
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantiles",Discovery Kids
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/34
+#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="" group-title="Entretenimiento",Unimas
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/35
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="" group-title="Entretenimiento",Unicable
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/36
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantiles",Cartoon Network
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/37
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="" group-title="Entretenimiento",RCN
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/38
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="Entretenimiento",Fox Life
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/39
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Entretenimiento",A&E
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/40
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="" group-title="Deportes",Telemundo Internacional
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/41
+#EXTINF:-1 tvg-id="" tvg-name="V USA FS2" tvg-logo="" group-title="Deportes",V USA FS2
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/42
+#EXTINF:-1 tvg-id="" tvg-name="V USA FS1" tvg-logo="" group-title="Deportes",V USA FS1
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/43
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport USA" tvg-logo="" group-title="Deportes",Bein Sport USA
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/45
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Esp" tvg-logo="" group-title="Deportes",Bein Sports Esp
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium Arg" tvg-logo="" group-title="Deportes",Fox Sports Premium Arg
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/48
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Deportes",Telemundo
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/49
+#EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="" group-title="Deportes",GolTV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/47
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="Cine",HBO Signature
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/50
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Mundo y Cultura",Discovery Turbo
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/51
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV (PR)" tvg-logo="" group-title="Internacionales",Mega TV (PR)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/52
+#EXTINF:-1 tvg-id="" tvg-name="Univision (PR)" tvg-logo="" group-title="Internacionales",Univision (PR)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/53
+#EXTINF:-1 tvg-id="" tvg-name="Wapa 2 (PR)" tvg-logo="" group-title="Internacionales",Wapa 2 (PR)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/54
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="" group-title="Deportes",TUDN MX
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/58
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="" group-title="Deportes",TUDN USA
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/59
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MX (Encoder)" tvg-logo="" group-title="Deportes",FOX SPORTS 2 MX (Encoder)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/60
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Mundo y Cultura",Discovery World
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/62
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="Cine",TMC
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/63
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="Cine",Paramount Channel
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/64
+#EXTINF:-1 tvg-id="" tvg-name="Morbido" tvg-logo="" group-title="Cine",Morbido
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/65
+#EXTINF:-1 tvg-id="" tvg-name="Max UP" tvg-logo="" group-title="Cine",Max UP
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/66
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="Cine",Max Prime
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/67
+#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="" group-title="Cine",Isat
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/68
+#EXTINF:-1 tvg-id="" tvg-name="Golden EDGE" tvg-logo="" group-title="Cine",Golden EDGE
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/69
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="Cine",Golden
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/70
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics" tvg-logo="" group-title="Cine",Fox Classics
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/71
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-logo="" group-title="Cine",FOX Cinema
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/72
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema" tvg-logo="" group-title="Cine",AZ Cinema
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/73
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="Infantiles",Tooncast
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/74
+#EXTINF:-1 tvg-id="" tvg-name="Tiin" tvg-logo="" group-title="Infantiles",Tiin
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/75
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="" group-title="Infantiles",Nick
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/76
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Infantiles",Boomerang
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/77
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZER TV EUROPA" tvg-logo="" group-title="Adultos",BRAZZER TV EUROPA
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/78
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV" tvg-logo="" group-title="Adultos",PLAYBOY TV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/79
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE 2" tvg-logo="" group-title="Adultos",PENTHOUSE 2
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/80
+#EXTINF:-1 tvg-id="" tvg-name="JAZMIN TV" tvg-logo="" group-title="Adultos",JAZMIN TV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/82
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE" tvg-logo="" group-title="Adultos",PENTHOUSE
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/83
+#EXTINF:-1 tvg-id="" tvg-name="CANDY TV" tvg-logo="" group-title="Adultos",CANDY TV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/84
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV" tvg-logo="" group-title="Adultos",PRIVATE TV
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/85
+#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="" group-title="Adultos",BLUE HUSTLER
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/86
+#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX" tvg-logo="" group-title="Adultos",PASSION XXX
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/87
+#EXTINF:-1 tvg-id="" tvg-name="EROX" tvg-logo="" group-title="Adultos",EROX
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/88
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA HD" tvg-logo="" group-title="Prueba",Bein Sports USA HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/89
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="" group-title="Prueba",Sportsnet 360 HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/91
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network(1)" tvg-logo="" group-title="Prueba",NHL Network(1)
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/92
+#EXTINF:-1 tvg-id="" tvg-name="Fox SPORTS 506 HD" tvg-logo="" group-title="Prueba",Fox SPORTS 506 HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/93
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="Prueba",Fox Sports 2 HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/95
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="Prueba",Fox Sports 1 HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/96
+#EXTINF:-1 tvg-id="" tvg-name="Fox sport 1 backup" tvg-logo="" group-title="Prueba",Fox sport 1 backup
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/98
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="USA",TNT
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/1
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORT" tvg-logo="" group-title="Prueba",FIGHT SPORT
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/90
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="" group-title="Prueba",NFL Network HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/103
