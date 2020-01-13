@@ -329,52 +329,52 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75
 #EXTINF:-1 tvg-logo="" group-title="KIDS & MOVIES" , AXN
 http://hvod.imirun.net:8080/AXN-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",HBO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
 http://95.170.215.118/hls/m3u8/HBO.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",HBO 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 2
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",HBO 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="KIDS & MOVIES",Fox Movies HD [BACKUP]
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP]
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="KIDS & MOVIES",Fox Movies HD [BACKUP 2]
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP 2]
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="KIDS & MOVIES",Fox Family Movies [BACKUP]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="MOVIES",Fox Family Movies [BACKUP]
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="KIDS & MOVIES",Fox Action Movies [BACKUP]
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="MOVIES",Fox Action Movies [BACKUP]
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="KIDS & MOVIES",WARNER TV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES",WARNER TV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="KIDS & MOVIES",HBO HD [BACKUP]
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES",HBO HD [BACKUP]
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="KIDS & MOVIES",HBO Family [BACKUP]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",HBO Family [BACKUP]
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="KIDS & MOVIES",HBO Hits [BACKUP]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits [BACKUP]
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="KIDS & MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="MOVIES",HBO Signature
 https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="KIDS & MOVIES",Red by HBO
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="MOVIES",Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",First Movie
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Blue Ant Entertainment
 http://bit.ly/2DvIkGl
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & MOVIES",National Geographic HD (LUAR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",National Geographic HD (LUAR)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",Animax
