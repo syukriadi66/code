@@ -326,7 +326,7 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 #EXTINF:-1 tvg-id="f99f579721c84c855f9d08542171839c" group-title="INDIHOME",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS & MOVIES" , AXN
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", AXN
 http://hvod.imirun.net:8080/AXN-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
