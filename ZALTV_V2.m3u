@@ -694,6 +694,9 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+#EXTINF:-1 group-title="VOD MOVIES",A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
 #EXTINF:-1 group-title="VOD MOVIES",THE HOST
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
@@ -703,6 +706,11 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8
 #EXTINF:-1 group-title="VOD MOVIES",WARM BODIES
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
 #EXTINF:-1 group-title="22/7 BOLA",Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
