@@ -108,4 +108,47 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Armenia TV (AM)
+http://ott-cdn.ucom.am/s4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Eurosport 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Eurosport 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",BT SPORT 1
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",BT SPORT 2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Setanta Sports 1 (Opt-1)
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Setanta Sports 1 (Opt-2)
+http://92.43.140.204:80/s81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Extra Sports",Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD MOVIES",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD MOVIES",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD MOVIES",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD MOVIES",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+
 
