@@ -30,14 +30,23 @@ https://anevia114.mncnow.id:443/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",TRANS TV
 https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",KIDS TV
+https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",RTV
 https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",TVRI
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",BERITA SATU
+https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",INEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",METRO TV
+https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MNC NOW",JAK TV
 https://anevia114.mncnow.id:443/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
