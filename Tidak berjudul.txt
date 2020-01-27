@@ -257,6 +257,9 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX Sport 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
@@ -268,6 +271,75 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="Extra Sports",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180724/hy/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da92d4eba7.5492831715324187068721.jpg" group-title="Extra Sports",Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png/revision/latest?cb=20100323073508" group-title="Extra Sports",GOLF HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym8G6zx/Champions-tv-1.png" group-title="Extra Sports",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="Extra Sports",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="Extra Sports",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="Extra Sports",BeinSport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="Extra Sports",BeinSport Xtra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Extra Sports",True Premier Football 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Extra Sports",True Premier Football 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Extra Sports",True Premier Football 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Extra Sports",True Premier Football 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbhXHDD1/Skynet-HD.png" group-title="Extra Sports",SkyNet Sport HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50VYVfbj/Skynet-1.png" group-title="Extra Sports",SkyNet Sport 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHBK1PLh/Skynet-2.png" group-title="Extra Sports",SkyNet Sport 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjc11QK2/skynet-3.png" group-title="Extra Sports",SkyNet Sport 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc4wC95k/Skynet-5.png" group-title="Extra Sports",SkyNet Sport 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JZ3HSK/Skynet-6.png" group-title="Extra Sports",SkyNet Sport 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",THE HOST
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
