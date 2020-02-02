@@ -357,6 +357,24 @@ http://82.197.213.9:7200/stream/channelid/472149526?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Ziggo Sport Racing HD
 http://82.197.213.9:7200/stream/channelid/1030677346?profile=pass
 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 1
+http://tv.denied.network/sporttv1hd/stream
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 2
+http://tv.denied.network/sporttv2hd/stream
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 3
+http://tv.denied.network/sporttv3hd/stream
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 4
+http://tv.denied.network/sporttv4hd/stream
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 5
+http://tv.denied.network/sporttv5hd/stream
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",SPORT TV 2
+http://tv.denied.network/sporttv2hd/stream
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BT SPORT 1 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 
