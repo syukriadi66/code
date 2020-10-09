@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:-1,BHT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/889.m3u8
+#EXTINF:-1,FTV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/864.m3u8
+#EXTINF:-1,RTRS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/771.m3u8
+#EXTINF:-1,RTV USK
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/762.m3u8
+#EXTINF:-1,RTV CAZIN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/765.m3u8
+#EXTINF:-1,ATV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/892.m3u8
+#EXTINF:-1,FACE TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/869.m3u8
+#EXTINF:-1,HAYAT BH
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/861.m3u8
+#EXTINF:-1,HAPPY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/862.m3u8
+#EXTINF:-1,OTV VALENTINO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/837.m3u8
+#EXTINF:-1,BN TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/886.m3u8
+#EXTINF:-1,RTS1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/767.m3u8
+#EXTINF:-1,RTS2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/766.m3u8
+#EXTINF:-1,BN MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/887.m3u8
+#EXTINF:-1,HRT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/854.m3u8
+#EXTINF:-1,HRT2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/852.m3u8
+#EXTINF:-1,OBN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/839.m3u8
+#EXTINF:-1,DMSAT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/876.m3u8
+#EXTINF:-1,HAYAT FOLK
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/860.m3u8
+#EXTINF:-1,RTL HRVATSKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/778.m3u8
+#EXTINF:-1,RTL 2 HRVATSKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
+#EXTINF:-1,DOMA TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
+#EXTINF:-1,ALJAZEERA BALKANS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/900.m3u8
+#EXTINF:-1,CNN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/881.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/841.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/745.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/746.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/744.m3u8
+#EXTINF:-1,DISCOVERY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/880.m3u8
+#EXTINF:-1,DISCOVERY IDXTRA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/878.m3u8
+#EXTINF:-1,TLC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/753.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/899.m3u8
+#EXTINF:-1,24 KITCHEN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/902.m3u8
+#EXTINF:-1,RTL GERMANY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/779.m3u8
+#EXTINF:-1,RTL2 GERMANY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/774.m3u8
+#EXTINF:-1,SUPER RTL
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/756.m3u8
+#EXTINF:-1,KIKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/845.m3u8
+#EXTINF:-1,SLO1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/759.m3u8
+#EXTINF:-1,SLO 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/760.m3u8
+#EXTINF:-1,FOX CRIME
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/866.m3u8
+#EXTINF:-1,FOX LIFE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/865.m3u8
+#EXTINF:-1,FOX CHANNEL
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/867.m3u8
+#EXTINF:-1,PRO7
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/783.m3u8
+#EXTINF:-1,VOX
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/742.m3u8
+#EXTINF:-1,VH1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/748.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/747.m3u8
+#EXTINF:-1,MTV ADRIA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/844.m3u8
+#EXTINF:-1,CMC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/882.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/871.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/870.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
+#EXTINF:-1,ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/757.m3u8
+#EXTINF:-1,TELEVIZIJA 5 HD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/755.m3u8
+#EXTINF:-1,IZVORNA TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/847.m3u8
+#EXTINF:-1,HAYATOVCI
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/855.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/777.m3u8
+#EXTINF:-1,HRT3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/850.m3u8
+#EXTINF:-1,RTS SAT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/768.m3u8
+#EXTINF:-1,RTRS PLUS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/770.m3u8
+#EXTINF:-1,NTV 101
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/848.m3u8
+#EXTINF:-1,RTV HIT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/764.m3u8
+#EXTINF:-1,RTL LIVING
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/776.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/858.m3u8
+#EXTINF:-1,N-TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/843.m3u8
+#EXTINF:-1,PINK WORLD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/787.m3u8
+#EXTINF:-1,HAYAT MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/859.m3u8
+#EXTINF:-1,PINKNROLL
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/784.m3u8
+#EXTINF:-1,RTL NITRO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/775.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/877.m3u8
+#EXTINF:-1,ZDF
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/741.m3u8
+#EXTINF:-1,KABEL 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/846.m3u8
+#EXTINF:-1,PINK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/836.m3u8
+#EXTINF:-1,PINK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/835.m3u8
+#EXTINF:-1,PINK 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/834.m3u8
+#EXTINF:-1,PINK ACTION
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/833.m3u8
+#EXTINF:-1,PINK BRAVO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/832.m3u8
+#EXTINF:-1,PINK CLASSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/831.m3u8
+#EXTINF:-1,PINK COMEDY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/830.m3u8
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/829.m3u8
+#EXTINF:-1,PINK EROTIC 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/828.m3u8
+#EXTINF:-1,PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/827.m3u8
+#EXTINF:-1,PINK EROTIC 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/826.m3u8
+#EXTINF:-1,PINK EROTIC 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/825.m3u8
+#EXTINF:-1,PINK EROTIC 5
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/824.m3u8
+#EXTINF:-1,PINK EROTIC 6
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/823.m3u8
+#EXTINF:-1,PINK EROTIC 7
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/822.m3u8
+#EXTINF:-1,PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/821.m3u8
+#EXTINF:-1,PINK EXTRA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/820.m3u8
+#EXTINF:-1,PINK FAMILY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/819.m3u8
+#EXTINF:-1,PINK FASHION
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/818.m3u8
+#EXTINF:-1,PINK FIGHT NETWORK
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/817.m3u8
+#EXTINF:-1,PINK FILM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8
+#EXTINF:-1,PINK FOLK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/815.m3u8
+#EXTINF:-1,PINK FOLK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/814.m3u8
+#EXTINF:-1,PINK HAHA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/813.m3u8
+#EXTINF:-1,PINK HITS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/812.m3u8
+#EXTINF:-1,PINK HITS2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/811.m3u8
+#EXTINF:-1,PINK HORROR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/810.m3u8
+#EXTINF:-1,PINK KIDS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/809.m3u8
+#EXTINF:-1,PINK KONCERT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/808.m3u8
+#EXTINF:-1,PINK KUVAR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/807.m3u8
+#EXTINF:-1,PINK LOL
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/806.m3u8
+#EXTINF:-1,PINK MOVIES
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/805.m3u8
+#EXTINF:-1,PINK MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/804.m3u8
+#EXTINF:-1,PINK MUSIC2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/803.m3u8
+#EXTINF:-1,PINK PARADA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/801.m3u8
+#EXTINF:-1,PINK PEDIA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/800.m3u8
+#EXTINF:-1,PINK PLUS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/799.m3u8
+#EXTINF:-1,PINK PREMIUM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/798.m3u8
+#EXTINF:-1,PINK REALITY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/797.m3u8
+#EXTINF:-1,PINK ROMANCE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/796.m3u8
+#EXTINF:-1,PINK SCIFI & FANTASY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/795.m3u8
+#EXTINF:-1,PINK SERIJE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/794.m3u8
+#EXTINF:-1,PINK SHOW
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/793.m3u8
+#EXTINF:-1,PINK SOAP
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/792.m3u8
+#EXTINF:-1,PINK STYLE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/791.m3u8
+#EXTINF:-1,PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/790.m3u8
+#EXTINF:-1,PINK THRILLER
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/789.m3u8
+#EXTINF:-1,PINK WESTERN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/788.m3u8
+#EXTINF:-1,PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/786.m3u8
+#EXTINF:-1,PINK ZABAVA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/785.m3u8
+#EXTINF:-1,RT RUSSIA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/781.m3u8
+#EXTINF:-1,SPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/758.m3u8
+#EXTINF:-1,RT TODAY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/782.m3u8
+#EXTINF:-1,TV SEHARA HD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/903.m3u8
+#EXTINF:-1,OTV ETNO TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/905.m3u8
+#EXTINF:-1,OTV FOLK TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/904.m3u8
+#EXTINF:-1,BALKANIKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/907.m3u8
+#EXTINF:-1,RSG RADIO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/908.m3u8
+#EXTINF:-1,RADIO MIX
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/909.m3u8
+#EXTINF:-1,RADIO RTV USK
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/910.m3u8
+#EXTINF:-1,BIG RADIO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/919.m3u8
+#EXTINF:-1,BOBAR RADIO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/918.m3u8
+#EXTINF:-1,RADIO BIR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/913.m3u8
+#EXTINF:-1,RADIO BN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/914.m3u8
+#EXTINF:-1,RADIO KALMAN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/915.m3u8
+#EXTINF:-1,RADIO POSAVINA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/921.m3u8
+#EXTINF:-1,RADIO RTRS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/917.m3u8
+#EXTINF:-1,VIP RADIO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/916.m3u8
+#EXTINF:-1,RADIO MIR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/922.m3u8
+#EXTINF:-1,RADIO 1 DOLENJSKA REGIJA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/929.m3u8
+#EXTINF:-1,RADIO 1 GORENJSKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/925.m3u8
+#EXTINF:-1,RADIO 1 LJUBLJANA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/924.m3u8
+#EXTINF:-1,RADIO 1 MARIBOR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/926.m3u8
+#EXTINF:-1,RADIO 1 OBALA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/927.m3u8
+#EXTINF:-1,RADIO 1 PRIMORSKA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/928.m3u8
+#EXTINF:-1,RADIO SI
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/937.m3u8
+#EXTINF:-1,RADIO SLO 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/934.m3u8
+#EXTINF:-1,RADIO SLO 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/935.m3u8
+#EXTINF:-1,RADIO SLO 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/936.m3u8
+#EXTINF:-1,K3 TV
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/938.m3u8
+#EXTINF:-1,TV DOBOJ
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/939.m3u8
